@@ -11,13 +11,13 @@
 
 start:
 SBI DDRD, 0  ;Set PD0 as output
-CBI DDRB, 0  ;Set PB0 as input
+CBI DDRC, 0  ;Set PB0 as input
 
-forever:
-L1: SBIS PINB, 0 ; 
-RJMP L2
+output:
+agn: SBIS PINC, 0 ; 
+RJMP outputbyte
 SBI PORTD, 0 ; 
-SBIC PINB, 0 ; 
-RJMP L1
-L2: CBI PORTD, 0 ; 
-RJMP forever
+SBIC PINC, 0 ; 
+RJMP agn
+outputbyte: CBI PORTD, 0 ; 
+RJMP output
