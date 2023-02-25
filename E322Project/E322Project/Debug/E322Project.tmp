@@ -1,0 +1,49 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>C:\Users\ishan\Desktop\E322Project\E322Project\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\ishan\Desktop\E322Project\E322Project\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m328Pdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\ishan\Desktop\E322Project\E322Project\Debug\E322Project.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>E322Project.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>E322Project.map</FILE>
+  <FILE>E322Project.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <LCD_Write><FILE>C:\Users\ishan\Desktop\E322Project\E322Project\main.asm</FILE><LINE>12</LINE></LCD_Write>
+  <delay_ms><FILE>C:\Users\ishan\Desktop\E322Project\E322Project\main.asm</FILE><LINE>219</LINE></delay_ms>
+  <LCD_init><FILE>C:\Users\ishan\Desktop\E322Project\E322Project\main.asm</FILE><LINE>41</LINE></LCD_init>
+  <Main><FILE>C:\Users\ishan\Desktop\E322Project\E322Project\main.asm</FILE><LINE>22</LINE></Main>
+  <disp_name><FILE>C:\Users\ishan\Desktop\E322Project\E322Project\main.asm</FILE><LINE>100</LINE></disp_name>
+  <command_wrt><FILE>C:\Users\ishan\Desktop\E322Project\E322Project\main.asm</FILE><LINE>60</LINE></command_wrt>
+  <count><FILE>C:\Users\ishan\Desktop\E322Project\E322Project\main.asm</FILE><LINE>166</LINE></count>
+  <loop1><FILE>C:\Users\ishan\Desktop\E322Project\E322Project\main.asm</FILE><LINE>35</LINE></loop1>
+  <delay_seconds><FILE>C:\Users\ishan\Desktop\E322Project\E322Project\main.asm</FILE><LINE>227</LINE></delay_seconds>
+  <delay_short><FILE>C:\Users\ishan\Desktop\E322Project\E322Project\main.asm</FILE><LINE>206</LINE></delay_short>
+  <delay_us><FILE>C:\Users\ishan\Desktop\E322Project\E322Project\main.asm</FILE><LINE>211</LINE></delay_us>
+  <data_wrt><FILE>C:\Users\ishan\Desktop\E322Project\E322Project\main.asm</FILE><LINE>80</LINE></data_wrt>
+  <secondline><FILE>C:\Users\ishan\Desktop\E322Project\E322Project\main.asm</FILE><LINE>154</LINE></secondline>
+  <in1><FILE>C:\Users\ishan\Desktop\E322Project\E322Project\main.asm</FILE><LINE>181</LINE></in1>
+  <out1><FILE>C:\Users\ishan\Desktop\E322Project\E322Project\main.asm</FILE><LINE>191</LINE></out1>
+  <inc1><FILE>C:\Users\ishan\Desktop\E322Project\E322Project\main.asm</FILE><LINE>186</LINE></inc1>
+  <turn_off_light><FILE>C:\Users\ishan\Desktop\E322Project\E322Project\main.asm</FILE><LINE>201</LINE></turn_off_light>
+  <dec1><FILE>C:\Users\ishan\Desktop\E322Project\E322Project\main.asm</FILE><LINE>196</LINE></dec1>
+  <loop2><FILE>C:\Users\ishan\Desktop\E322Project\E322Project\main.asm</FILE><LINE>213</LINE></loop2>
+  <loop3><FILE>C:\Users\ishan\Desktop\E322Project\E322Project\main.asm</FILE><LINE>221</LINE></loop3>
+  <loop4><FILE>C:\Users\ishan\Desktop\E322Project\E322Project\main.asm</FILE><LINE>229</LINE></loop4>
+  <loop5><FILE>C:\Users\ishan\Desktop\E322Project\E322Project\main.asm</FILE><LINE>231</LINE></loop5>
+  <loop6><FILE>C:\Users\ishan\Desktop\E322Project\E322Project\main.asm</FILE><LINE>233</LINE></loop6>
+ </LABELS>
+</ASSEMBLER_INFO>
