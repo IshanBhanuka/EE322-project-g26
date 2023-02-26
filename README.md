@@ -8,14 +8,14 @@ This project is a bidirectional visitor counter using an atmega328p microcontrol
 
 ### Materials Used
 
-    -Atmega328p Microcontroller
-    -Infrared sensors
-    -LCD display
-    -16MHz Oscillator
-    -3 Capacitors
-    -100k Potentiometer
-    -Breadboard
-    -Jumper wires
+    - Atmega328p Microcontroller
+    - Infrared sensors
+    - LCD display
+    - 16MHz Oscillator
+    - 3 Capacitors
+    - 100k Potentiometer
+    - Breadboard
+    - Jumper wires
 
 ### Circuit Diagram
 
