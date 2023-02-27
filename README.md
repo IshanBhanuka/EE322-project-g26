@@ -19,6 +19,8 @@ This project is a bidirectional visitor counter using an atmega328p microcontrol
 
 ### Circuit Diagram
 
+![circuit new](https://user-images.githubusercontent.com/73551539/221586145-686c35f2-2523-4a64-b835-25efd908d455.png)
+
 ### Circuit Diagram
 
 
