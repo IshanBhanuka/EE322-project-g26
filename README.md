@@ -1,6 +1,6 @@
 
 
-# Bidirectional Visitor Counter using 8051 Microcontroller
+# Bidirectional Visitor Counter using Atmega328p Microcontroller
 
 ## EE322-project-g26
 
@@ -18,9 +18,6 @@ This project is a bidirectional visitor counter using an atmega328p microcontrol
     - Jumper wires
 
 ### Circuit Diagram
-
-![circuit new](https://user-images.githubusercontent.com/73551539/221580856-8ee700ef-3839-462c-bb86-cc71ca8eb7ec.png)
-
 
 ### Circuit Diagram
 
